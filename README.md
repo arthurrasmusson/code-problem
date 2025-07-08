@@ -1,3 +1,8 @@
+# 0(1) Time Solution
+
+See 0(1)-time.c
+
+
 # Hash-Map-Based Solution
 
 This project provides a simple C implementation of an array-like storage where you can:
